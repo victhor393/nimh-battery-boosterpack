@@ -1,0 +1,1 @@
+../aa battery lado a lado.sch
