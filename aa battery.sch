@@ -1,1 +1,1 @@
-../aa battery.sch
+aa battery.sch
